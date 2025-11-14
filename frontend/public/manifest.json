@@ -1,0 +1,25 @@
+{
+  "name": "Feedback Application",
+  "short_name": "Feedback",
+  "description": "Feedback Application for mobile development",
+  "start_url": "/mobdev-lab14-stepochkin/",
+  "display": "standalone",
+  "background_color": "#F9FAFB",
+  "theme_color": "#4F46E5",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/mobdev-lab14-stepochkin/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/mobdev-lab14-stepochkin/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
+
