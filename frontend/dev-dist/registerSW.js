@@ -1,0 +1,1 @@
+if('serviceWorker' in navigator) navigator.serviceWorker.register('/mobdev-lab14-stepochkin/dev-sw.js?dev-sw', { scope: '/mobdev-lab14-stepochkin/', type: 'classic' })
